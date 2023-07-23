@@ -1,4 +1,4 @@
-{ "objects": [{"uid" : "123", "name" : "alexandre"},
+[{"uid" : "97172cac", "name" : "alexandre"},
  {"uid" : "234", "name" : "arruda"},
  {"uid" : "345", "name" : "jose"},
- {"uid" : "456", "name" : "camila"}] }
+ {"uid" : "456", "name" : "camila"}]
